@@ -32,6 +32,21 @@ Planning a trip usually means a notes app for the packing list, a weather app to
 - **Apple Intelligence, on-device.** Packing suggestions, weather summaries, and Genmoji journey icons, generated privately on your device on supported hardware.
 - **iCloud sync.** Every journey follows you across iPhone, iPad, and Mac. No account required.
 
+## How it compares
+
+PackPoint and Wanderlog are both established, well-liked apps, and a plain notes app works fine too if you're not picky. Here's honestly where journeybot differs:
+
+| | PackPoint | Wanderlog | Notes app | **journeybot** |
+|---|---|---|---|---|
+| Built for | Packing lists | Full itinerary & maps | Whatever you build | **Packing list + trip essentials, one journey** |
+| Packing suggestions | Weather + activity rules | Generic checklist | Manual, from scratch | **Weather + activity + on-device smart generation** |
+| Plans for trips months out | Current forecast only | | | **✓ historical weather average** |
+| Restricted-item / security check | | | | **✓ lithium batteries, power banks, and more** |
+| Item photo stickers | | | | **✓** |
+| Native iPhone, iPad & Mac app | Cross-platform | Cross-platform | Varies | **✓ built with SwiftUI** |
+| Account required | | ✓ | Varies | **No, syncs through your own iCloud** |
+| Price | Free · $2.99 one-time Premium | Free · Pro subscription | Free | **Free · subscription or one-time lifetime** |
+
 ## journeybot premium
 
 journeybot is free to use, with an optional upgrade for people who plan a lot of trips.
