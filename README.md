@@ -32,6 +32,15 @@ Planning a trip usually means a notes app for the packing list, a weather app to
 - **Apple Intelligence, on-device.** Packing suggestions, weather summaries, and Genmoji journey icons, generated privately on your device on supported hardware.
 - **iCloud sync.** Every journey follows you across iPhone, iPad, and Mac. No account required.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/01-journeys.webp" width="200" alt="My Journeys list, showing active and upcoming trips" />
+  <img src="docs/screenshots/02-packing-list.webp" width="200" alt="Packing list with item photo stickers" />
+  <img src="docs/screenshots/03-weather-currency.webp" width="200" alt="Weather forecast and currency converter for a journey" />
+  <img src="docs/screenshots/04-essentials.webp" width="200" alt="Power plug types and packing progress for a journey" />
+</p>
+
 ## How it compares
 
 Packing list apps aren't new, and the established ones each do something well. Full write-ups live on the website: [PackPoint](https://journeybot.app/alternatives/packpoint) · [Packr](https://journeybot.app/alternatives/packr) · [PackGoat](https://journeybot.app/alternatives/packgoat) · [Packing Pro](https://journeybot.app/alternatives/packing-pro). The short version:
