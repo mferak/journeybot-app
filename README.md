@@ -34,18 +34,19 @@ Planning a trip usually means a notes app for the packing list, a weather app to
 
 ## How it compares
 
-PackPoint and Wanderlog are both established, well-liked apps, and a plain notes app works fine too if you're not picky. Here's honestly where journeybot differs:
+Packing list apps aren't new, and the established ones each do something well. Full write-ups live on the website: [PackPoint](https://journeybot.app/alternatives/packpoint) · [Packr](https://journeybot.app/alternatives/packr) · [PackGoat](https://journeybot.app/alternatives/packgoat) · [Packing Pro](https://journeybot.app/alternatives/packing-pro). The short version:
 
-| | PackPoint | Wanderlog | Notes app | **journeybot** |
-|---|---|---|---|---|
-| Built for | Packing lists | Full itinerary & maps | Whatever you build | **Packing list + trip essentials, one journey** |
-| Packing suggestions | Weather + activity rules | Generic checklist | Manual, from scratch | **Weather + activity + on-device smart generation** |
-| Plans for trips months out | Current forecast only | | | **✓ historical weather average** |
-| Restricted-item / security check | | | | **✓ lithium batteries, power banks, and more** |
-| Item photo stickers | | | | **✓** |
-| Native iPhone, iPad & Mac app | Cross-platform | Cross-platform | Varies | **✓ built with SwiftUI** |
-| Account required | | ✓ | Varies | **No, syncs through your own iCloud** |
-| Price | Free · $2.99 one-time Premium | Free · Pro subscription | Free | **Free · subscription or one-time lifetime** |
+| | PackPoint | Packr | PackGoat | Packing Pro | **journeybot** |
+|---|---|---|---|---|---|
+| Packing list generation | Cloud-based, from live weather data | Checklist from destination, dates & weather | On-device, Apple Intelligence + WeatherKit | Rule-based assistant + 800+ item catalog | **On-device, with Apple Intelligence** |
+| Account / sync | – | Requires Apple ID sign-in | Free tier; iCloud sync needs Pro ($3.99/week or $29.99 lifetime) | – | **No account, syncs free through the iCloud you already have** |
+| Photo stickers for packed items | ✗ | ✗ | ✗ | Plain photos only | **✓ on-device cutout stickers** |
+| Medication reminders (Apple Health) | ✗ | ✗ | ✗ | ✗ | **✓** |
+| Beyond the checklist | Packing list only | Packing list, plus multi-destination & TripIt sync | Packing list, bag weight, TSA toiletry limits | Packing list, alerts, priorities | **Journey Hub: weather, power plugs, currency, local time, baggage check** |
+| Platform | iOS, Android | iPhone, iPad, Mac (Apple silicon), Vision Pro | Apple platforms | iPhone, iPad, Mac, Vision¹ | **iPhone, iPad, Mac, built natively with SwiftUI** |
+| Price | Free · $0.99–$2.99 one-time unlocks | Free · subscription or lifetime | Free · Pro $3.99/week or $29.99 lifetime | $2.99 upfront + IAP | **Free · subscription or one-time lifetime** |
+
+¹ Packing Pro's most recent App Store update was version 13.5, in May 2022.
 
 ## journeybot premium
 
